@@ -17,6 +17,9 @@
       },
       "api": {
         "reactamplify": {}
+      },
+      "storage": {
+        "s384cb3d2f": {}
       }
     }
   }
